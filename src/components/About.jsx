@@ -16,7 +16,7 @@ const About = () => {
                             <div className=" relative">
                                 <img src={about} alt="" />
                             </div>
-                            <div className="absolute  lg:-bottom-[580px] -bottom-[250px] ">
+                            <div className="absolute  lg:-bottom-[650px] -bottom-[420px] ">
                                 <img src={market} className="lg:w-[241px] lg:h-[136px] w-[128px] h-[73px]" alt="" />
                             </div>
 
