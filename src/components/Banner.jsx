@@ -23,7 +23,7 @@ const Banner = () => {
                     <p className="py-6 text-white lg:text-2xl text-xl roboto-regular">
                         Among the best Saudi chefs in the world, serving <br></br> you something beyond flavor.
                     </p>
-                    <button className="lg:w-[180px] w-[152px] h-[48px] lg:h-[56px] px-4 py-4 bg-[#FEBF00] roboto-bold lg:text-lg text-base">Explore Menu</button>
+                    <button className="lg:w-[180px] w-[152px] h-[48px] lg:h-[56px] px-4 py-4 bg-[#FEBF00] roboto-bold lg:text-lg text-base">Explore tenu</button>
                 </div>
             </div>
         </div>
