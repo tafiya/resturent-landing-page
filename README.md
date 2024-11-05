@@ -1,6 +1,6 @@
 # Restaurant Landing Page
 
-[Live Link](https://resturent-landing-page-eym5.vercel.app/)
+## [Live Link](https://resturent-landing-page-eym5.vercel.app/)
 
 This project is a modern and fully responsive landing page for a restaurant, created using **React**, **Tailwind CSS**, **Daisy UI**, and **React Slick** for the carousel/slider functionality.
 
