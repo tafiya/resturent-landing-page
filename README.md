@@ -62,3 +62,30 @@ To ensure the carousel is styled correctly, add the following CSS imports in you
 ```css
 @import "slick-carousel/slick/slick.css";
 @import "slick-carousel/slick/slick-theme.css";
+
+```
+## 📂 Project Structure
+
+The project structure is organized as follows:
+- /src
+ ├── /components -->Contains reusable components like the header, carousel, etc.      
+ ├── /assets/images -->Stores images, icons, and other assets           
+
+
+## 🧩 Key Components
+
+- **Hero Section**: The main banner area with a call-to-action.
+- **Menu Carousel**: A responsive carousel showcasing popular menu items using `react-slick`.
+- **Testimonials**: (Optional) Customer feedback section.
+- **Contact Form**: A form for customers to make reservations or inquiries.
+
+## 📱 Responsive Design
+
+This landing page is fully responsive and optimized for all screen sizes, from large desktops to mobile devices.
+
+## ✨ Customization
+
+Feel free to customize this landing page to fit the unique style of your restaurant. You can adjust colors, fonts, and layouts in the Tailwind CSS and Daisy UI settings to match your branding.
+
+# Live link
+
